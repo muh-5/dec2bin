@@ -27,4 +27,4 @@ dec2bin(1) - General Commands Manual
 
  Written by Muhammed Hussam
 
-Void Linux - May 17, 2022
+ \- May 17, 2022
