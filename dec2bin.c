@@ -1,5 +1,3 @@
-// C program to illustrate
-// command line arguments
 #include <stdio.h>
 #include <stdlib.h>
 
