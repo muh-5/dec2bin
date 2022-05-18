@@ -3,7 +3,7 @@
 # to make binary:
 # $ make
 # to remove binary
-# $ make clean#
+# $ make clean
 
 # the C compiler
 CC=cc
