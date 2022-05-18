@@ -7,7 +7,7 @@ int main(int argc,char* argv[])
 	int bin[2048];
 	int count = 0;
 	if (argc != 2) {
-		printf("input write arg!");
+		printf("input args in this way $ dec2bin 12");
 		exit;
 	}
 	dec = atoi(argv[1]);
